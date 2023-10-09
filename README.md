@@ -44,6 +44,7 @@ Obtenido de Kaggle | link: https://www.kaggle.com/datasets/tawfikelmetwally/empl
 Archivos: Contiene los archivos del proyecto de Power BI.
 Visualizaciones: Capturas de pantalla de las visualizaciones clave.
 Datos: Datos de muestra para realizar pruebas y experimentos.
+Informe: Modelo de informe/reporte de empleados en formato .pdf
 
 ## Cómo Abrir el Proyecto
 
